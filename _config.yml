@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "All about Statistics"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Taehee Lee"
+name                     : "Solji Han"
 description              : "An amazing website."
-url                      : "https://thstar_mm_start.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://soulJ90.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taehee Lee"
+  name             : "Solji Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Republic of Korea"
